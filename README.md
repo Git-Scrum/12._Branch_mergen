@@ -1,7 +1,6 @@
-# 12._Branch_mergen
-### **Erst pull, dann push >> "Vermeide Konflikte - vermeide merge!"**
+### **Branche mergen >> "Einen (Aufgaben-)Branche in einen master Branch mit Konflikt zusammenführen"**
 
-#### **Video:**  [Erst pull, dann push - vermeide merge](https://maxeythschulede-my.sharepoint.com/:v:/g/personal/schwaiger_max-eyth-schule_de1/EUxFnsbUTodIvwP3eRwg8cUBFvwW9wCWQAZkF8RsNtRHuw?e=bDoi4Z) 🎞
+#### **Video:**  [Branche mergen](https://maxeythschulede-my.sharepoint.com/:v:/g/personal/schwaiger_max-eyth-schule_de1/EcRds7wBgqhKjKj5yv1JWMsBDrAAdwCRgQHUPylxQsR5cQ?e=VbSWgy) 🎞
 
 1.  Erstelle als erste Teilnehmerin einen erklärenden Text zu dem oberen Video oder erstelle ein besseres Video zu dem aktuellen Thema.
 Helfe mit den Kurs immer aktuell zu halten! 👍
